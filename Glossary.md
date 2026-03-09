@@ -65,3 +65,18 @@ The process of converting data from one format, structure, or schema to another 
 
 ## Batch Processing
 A method of processing a large volume of data or requests as a group or batch rather than individually, typically used for bulk operations and improved efficiency.
+
+## Anypoint Platform
+MuleSoft's unified integration platform for designing, developing, deploying, managing, and monitoring APIs and integrations.
+
+## Mule Runtime
+The lightweight, Java-based enterprise service bus (ESB) and runtime engine that executes Mule applications.
+
+## Flow
+A sequence of processing steps (building blocks) within a Mule application that passes data from one end to another.
+
+## DataWeave
+MuleSoft's powerful data transformation language used for converting and mapping data formats between applications and systems.
+
+## Anypoint Studio
+A graphical IDE for designing, testing, and debugging Mule applications and integrations.
