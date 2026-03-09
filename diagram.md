@@ -7,5 +7,6 @@ journey
       Do work: 1: Me, Cat
     section Go home
       Go downstairs: 5: Me
+      Do work: 2: Me, Cat
       Sit down: 5: Me
 ```
